@@ -45,9 +45,11 @@ Analizar patrones de criminalidad en la Ciudad Autónoma de Buenos Aires durante
 ```bash
 python analisis_delitos.py
 ```
-.
+
+```
 ├── analisis_delitos.py    # Script principal
 ├── delitos2019.csv       # Dataset original
 ├── datos_barrios_caba.csv # Datos demográficos
 ├── requirements.txt      # Dependencias
 └── reporte.pdf           # Reporte generado
+```
