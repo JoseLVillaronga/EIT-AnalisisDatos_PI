@@ -8,27 +8,27 @@ Analizar patrones de criminalidad en la Ciudad Autónoma de Buenos Aires durante
 
 ## Principales Conclusiones
 
-### 1. Distribución Temporal
-- **Día pico:** 11 de marzo (466 casos)
-- **Mes crítico:** Marzo (11,166 casos)
+### Hallazgos Clave
+1. **Distribución de homicidios por vulnerabilidad**:
+   - En barrios vulnerables: 69.7% homicidios dolosos vs 30.3% siniestros viales
+   - En otros barrios: 39.5% dolosos vs 60.5% viales
 
-### 2. Geografía del Crimen
-**Barrios más peligrosos:**
-1. Palermo (9,559 casos)
-2. Balvanera (9,239)
-3. San Nicolás (6,246)
+2. **Patrones temporales**:
+   - Pico de siniestros viales: Horario laboral (mañana/tarde)
+   - Mes crítico general: Marzo (11,166 casos)
 
-**Barrios con más violencia:**
-1. Balvanera (4,902 casos violentos)
-2. Palermo (4,711)
+3. **Factores geográficos**:
+   - Barrios con mayor criminalidad violenta: Balvanera (4,902 casos)
+   - Mayor criminalidad total: Palermo (9,559 casos)
 
-### 3. Patrones Detectados
-- Alta correlación densidad poblacional-delitos (r=0.75)
-- Zonas turísticas con mayor criminalidad no violenta
+### Implicaciones
+- **Estrategias diferenciadas**:
+  - Barrios vulnerables: Enfocar en prevención de violencia interpersonal
+  - Otros barrios: Refuerzo de seguridad vial horaria
 
-### 4. Calidad de Datos
-- 99.5% registros válidos
-- 597 casos sin ubicación precisa
+- **Políticas públicas**:
+  - Programas de prevención en marzo
+  - Control vial en horarios pico laborales
 
 ## Recomendaciones
 1. Investigar causas del pico en marzo
